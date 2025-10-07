@@ -6,4 +6,7 @@ body {
   padding: 20px;
   font-family: 'Times New Roman', Times, serif,;
 }
-
+h1 {
+  color: garnet;
+  text-align: center;
+}
