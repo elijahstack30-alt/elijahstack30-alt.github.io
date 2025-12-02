@@ -10,3 +10,31 @@ h1 {
   color: garnet;
   text-align: center;
 }
+
+.projects
+{
+  display:flex;
+  flex-wrap:wrap;
+}
+
+.project
+{
+  width: 30%;
+  margin: 10px;
+  padding: 20px 10x;
+  background: white;
+  border-radius: 25%;
+}
+
+.project p 
+{
+  text-align: center;
+  margin: 15px;
+}
+
+.project h3
+{
+  margin-left: 50px;
+}
+
+  
